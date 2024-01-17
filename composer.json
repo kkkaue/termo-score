@@ -12,6 +12,7 @@
         "laravel/tinker": "^2.8"
     },
     "require-dev": {
+        "barryvdh/laravel-debugbar": "^3.9",
         "fakerphp/faker": "^1.9.1",
         "friendsofphp/php-cs-fixer": "^3.47",
         "laravel/pint": "^1.0",
